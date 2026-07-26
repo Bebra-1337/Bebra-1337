@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,17,23&height=200&section=header" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3fb950&height=200&section=header" alt="header" />
 </p>
 
 <h1 align="center">
@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bebralegendick&label=Profile%20views&color=0d1117&style=for-the-badge&logo=github&logoColor=3fb950" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Bebra-1337&label=Profile%20views&color=0d1117&style=for-the-badge&logo=github&logoColor=3fb950" alt="profile views" />
   <a href="https://bebralegendick.ru"><img src="https://img.shields.io/badge/🌐_Сайт-bebralegendick.ru-0d1117?style=for-the-badge&logoColor=3FB950" alt="website" /></a>
 </p>
 
@@ -97,7 +97,7 @@ public:
 ## 🏆 Достижения
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bebralegendick&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bebra-1337&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
 ---
@@ -116,7 +116,7 @@ public:
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,17,23&height=100&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3fb950&height=100&section=footer" alt="footer" />
 </p>
 
 <p align="center">
