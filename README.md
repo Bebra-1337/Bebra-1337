@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,17,23&height=200&section=header" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,3fb950&height=200&section=header" alt="header" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=3FB950&center=true&vCenter=true&random=false&width=600&lines=Привет%2C+я+BebraLegendick+👋;Системный+разработчик;Low-Level+энтузиаст" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=3fb950&center=true&vCenter=true&random=false&width=600&lines=Привет%2C+я+BebraLegendick+👋;Системный+разработчик;Low-Level+энтузиаст" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bebralegendick&label=Profile%20views&color=0d1117&style=for-the-badge&logo=github&logoColor=3fb950" alt="profile views" />
-  <a href="https://bebralegendick.ru"><img src="https://img.shields.io/badge/🌐_Сайт-bebralegendick.ru-0d1117?style=for-the-badge&logoColor=3FB950" alt="website" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Bebra-1337&label=Profile%20views&color=0d1117&style=for-the-badge&logo=github&logoColor=3fb950" alt="profile views" />
+  <a href="https://bebralegendick.ru"><img src="https://img.shields.io/badge/🌐_Сайт-bebralegendick.ru-0d1117?style=for-the-badge&logoColor=3fb950" alt="website" /></a>
 </p>
 
 ---
@@ -52,7 +52,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bebra-1337&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bebra-1337&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bebra-1337&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakNum=c9d1d9&currStreakLabel=3fb950&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -97,7 +97,7 @@ public:
 ## 🏆 Достижения
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bebralegendick&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bebra-1337&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
 ---
@@ -106,7 +106,7 @@ public:
 
 <p align="left">
   <a href="https://bebralegendick.ru">
-    <img src="https://img.shields.io/badge/🌐_Website-bebralegendick.ru-0d1117?style=for-the-badge&logoColor=3FB950" alt="Website" />
+    <img src="https://img.shields.io/badge/🌐_Website-bebralegendick.ru-0d1117?style=for-the-badge&logoColor=3fb950" alt="Website" />
   </a>
   <a href="mailto:contact@bebralegendick.ru">
     <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=3fb950" alt="Email" />
@@ -116,7 +116,7 @@ public:
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,17,23&height=100&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,3fb950&height=100&section=footer" alt="footer" />
 </p>
 
 <p align="center">
