@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,17,23&height=200&section=header" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header" alt="header" />
 </p>
 
 <h1 align="center">
@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bebra-1337&theme=github-compact&hide_border=true&bg_color=0d1117&color=3fb950&line=3fb950&point=3fb950" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bebra-1337&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=3fb950&point=3fb950" alt="Contribution Graph" />
 </p>
 
 ---
@@ -116,7 +116,7 @@ public:
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,17,23&height=100&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" alt="footer" />
 </p>
 
 <p align="center">
