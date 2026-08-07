@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,17,23&height=200&section=header" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3fb950&height=200&section=header" alt="header" />
 </p>
 
 <h1 align="center">
@@ -24,7 +24,7 @@
 ## 🛠️ Технологический стек
 
 ### Языки программирования
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=3fb950" alt="C" />
   <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=3fb950" alt="C++" />
   <img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=c-sharp&logoColor=3fb950" alt="C#" />
@@ -32,14 +32,14 @@
 </p>
 
 ### Фреймворки и библиотеки
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Qt-0d1117?style=for-the-badge&logo=qt&logoColor=3fb950" alt="Qt" />
   <img src="https://img.shields.io/badge/Boost-0d1117?style=for-the-badge&logo=boost&logoColor=3fb950" alt="Boost" />
   <img src="https://img.shields.io/badge/Drogon-0d1117?style=for-the-badge&logo=cplusplus&logoColor=3fb950" alt="Drogon" />
 </p>
 
 ### Инструменты
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=3fb950" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=3fb950" alt="Linux" />
   <img src="https://img.shields.io/badge/CMake-0d1117?style=for-the-badge&logo=cmake&logoColor=3fb950" alt="CMake" />
@@ -94,17 +94,10 @@ public:
 
 ---
 
-## 🏆 Достижения
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bebra-1337&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
-
----
 
 ## 📫 Связаться со мной
 
-<p align="left">
+<p align="center">
   <a href="https://bebralegendick.ru">
     <img src="https://img.shields.io/badge/🌐_Website-bebralegendick.ru-0d1117?style=for-the-badge&logoColor=3FB950" alt="Website" />
   </a>
@@ -116,7 +109,7 @@ public:
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,17,23&height=100&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3fb950&height=100&section=footer" alt="footer" />
 </p>
 
 <p align="center">
