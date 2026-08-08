@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,17,23&height=200&section=header" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,100:3fb950&height=200&section=header" alt="header" />
 </p>
 
 <h1 align="center">
@@ -27,7 +27,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=3fb950" alt="C" />
   <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=3fb950" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=c-sharp&logoColor=3fb950" alt="C#" />
+  <img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=3fb950" alt="C#" />
   <img src="https://img.shields.io/badge/Assembly_x86-0d1117?style=for-the-badge&logo=assemblyscript&logoColor=3fb950" alt="ASM" />
 </p>
 
@@ -116,7 +116,7 @@ public:
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,17,23&height=100&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,100:3fb950&height=100&section=footer" alt="footer" />
 </p>
 
 <p align="center">
