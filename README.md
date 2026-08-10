@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,17,23&height=200&section=header" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3fb950&height=200&section=header" alt="header" />
 </p>
 
 <h1 align="center">
@@ -116,7 +116,7 @@ public:
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,17,23&height=100&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3fb950&height=100&section=footer" alt="footer" />
 </p>
 
 <p align="center">
