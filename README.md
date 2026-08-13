@@ -7,8 +7,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bebra-1337&label=Profile%20views&color=0d1117&style=for-the-badge&logo=github&logoColor=3fb950" alt="profile views" />
-  <a href="https://bebralegendick.ru"><img src="https://img.shields.io/badge/🌐_Сайт-bebralegendick.ru-0d1117?style=for-the-badge&logoColor=3FB950" alt="website" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Bebra-1337&label=Profile%20views&color=161b22&style=for-the-badge&logo=github&logoColor=3fb950" alt="profile views" />
+  <a href="https://bebralegendick.ru"><img src="https://img.shields.io/badge/🌐_Сайт-bebralegendick.ru-161b22?style=for-the-badge&logoColor=3FB950" alt="website" /></a>
 </p>
 
 ---
@@ -25,25 +25,25 @@
 
 ### Языки программирования
 <p align="left">
-  <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=3fb950" alt="C" />
-  <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=3fb950" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=c-sharp&logoColor=3fb950" alt="C#" />
-  <img src="https://img.shields.io/badge/Assembly_x86-0d1117?style=for-the-badge&logo=assemblyscript&logoColor=3fb950" alt="ASM" />
+  <img src="https://img.shields.io/badge/C-161b22?style=for-the-badge&logo=c&logoColor=3fb950" alt="C" />
+  <img src="https://img.shields.io/badge/C++-161b22?style=for-the-badge&logo=c%2B%2B&logoColor=3fb950" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-161b22?style=for-the-badge&logo=c-sharp&logoColor=3fb950" alt="C#" />
+  <img src="https://img.shields.io/badge/Assembly_x86-161b22?style=for-the-badge&logo=assemblyscript&logoColor=3fb950" alt="ASM" />
 </p>
 
 ### Фреймворки и библиотеки
 <p align="left">
-  <img src="https://img.shields.io/badge/Qt-0d1117?style=for-the-badge&logo=qt&logoColor=3fb950" alt="Qt" />
-  <img src="https://img.shields.io/badge/Boost-0d1117?style=for-the-badge&logo=boost&logoColor=3fb950" alt="Boost" />
-  <img src="https://img.shields.io/badge/Drogon-0d1117?style=for-the-badge&logo=cplusplus&logoColor=3fb950" alt="Drogon" />
+  <img src="https://img.shields.io/badge/Qt-161b22?style=for-the-badge&logo=qt&logoColor=3fb950" alt="Qt" />
+  <img src="https://img.shields.io/badge/Boost-161b22?style=for-the-badge&logo=boost&logoColor=3fb950" alt="Boost" />
+  <img src="https://img.shields.io/badge/Drogon-161b22?style=for-the-badge&logo=cplusplus&logoColor=3fb950" alt="Drogon" />
 </p>
 
 ### Инструменты
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=3fb950" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=3fb950" alt="Linux" />
-  <img src="https://img.shields.io/badge/CMake-0d1117?style=for-the-badge&logo=cmake&logoColor=3fb950" alt="CMake" />
-  <img src="https://img.shields.io/badge/Visual_Studio-0d1117?style=for-the-badge&logo=visual%20studio&logoColor=3fb950" alt="VS" />
+  <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=3fb950" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=3fb950" alt="Linux" />
+  <img src="https://img.shields.io/badge/CMake-161b22?style=for-the-badge&logo=cmake&logoColor=3fb950" alt="CMake" />
+  <img src="https://img.shields.io/badge/Visual_Studio-161b22?style=for-the-badge&logo=visual%20studio&logoColor=3fb950" alt="VS" />
 </p>
 
 ---
@@ -97,7 +97,7 @@ public:
 ## 🏆 Достижения
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bebra-1337&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bebra-1337&theme=gitdark&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
 ---
@@ -106,10 +106,10 @@ public:
 
 <p align="left">
   <a href="https://bebralegendick.ru">
-    <img src="https://img.shields.io/badge/🌐_Website-bebralegendick.ru-0d1117?style=for-the-badge&logoColor=3FB950" alt="Website" />
+    <img src="https://img.shields.io/badge/🌐_Website-bebralegendick.ru-161b22?style=for-the-badge&logoColor=3FB950" alt="Website" />
   </a>
   <a href="mailto:contact@bebralegendick.ru">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=3fb950" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=3fb950" alt="Email" />
   </a>
 </p>
 
