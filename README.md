@@ -24,7 +24,7 @@
 ## 🛠️ Технологический стек
 
 ### Языки программирования
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/C-161b22?style=for-the-badge&logo=c&logoColor=3fb950" alt="C" />
   <img src="https://img.shields.io/badge/C++-161b22?style=for-the-badge&logo=c%2B%2B&logoColor=3fb950" alt="C++" />
   <img src="https://img.shields.io/badge/C%23-161b22?style=for-the-badge&logo=c-sharp&logoColor=3fb950" alt="C#" />
@@ -32,14 +32,14 @@
 </p>
 
 ### Фреймворки и библиотеки
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Qt-161b22?style=for-the-badge&logo=qt&logoColor=3fb950" alt="Qt" />
   <img src="https://img.shields.io/badge/Boost-161b22?style=for-the-badge&logo=boost&logoColor=3fb950" alt="Boost" />
   <img src="https://img.shields.io/badge/Drogon-161b22?style=for-the-badge&logo=cplusplus&logoColor=3fb950" alt="Drogon" />
 </p>
 
 ### Инструменты
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=3fb950" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=3fb950" alt="Linux" />
   <img src="https://img.shields.io/badge/CMake-161b22?style=for-the-badge&logo=cmake&logoColor=3fb950" alt="CMake" />
@@ -104,9 +104,9 @@ public:
 
 ## 📫 Связаться со мной
 
-<p align="left">
+<p align="center">
   <a href="https://bebralegendick.ru">
-    <img src="https://img.shields.io/badge/🌐_Website-bebralegendick.ru-161b22?style=for-the-badge&logoColor=3FB950" alt="Website" />
+    <img src="https://img.shields.io/badge/🌐_Сайт-bebralegendick.ru-161b22?style=for-the-badge&logoColor=3FB950" alt="Сайт" />
   </a>
   <a href="mailto:contact@bebralegendick.ru">
     <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=3fb950" alt="Email" />
