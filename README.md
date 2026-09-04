@@ -24,7 +24,7 @@
 ## 🛠️ Технологический стек
 
 ### Языки программирования
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/C-161b22?style=for-the-badge&logo=c&logoColor=3fb950" alt="C" />
   <img src="https://img.shields.io/badge/C++-161b22?style=for-the-badge&logo=c%2B%2B&logoColor=3fb950" alt="C++" />
   <img src="https://img.shields.io/badge/C%23-161b22?style=for-the-badge&logo=c-sharp&logoColor=3fb950" alt="C#" />
@@ -32,14 +32,14 @@
 </p>
 
 ### Фреймворки и библиотеки
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Qt-161b22?style=for-the-badge&logo=qt&logoColor=3fb950" alt="Qt" />
   <img src="https://img.shields.io/badge/Boost-161b22?style=for-the-badge&logo=boost&logoColor=3fb950" alt="Boost" />
   <img src="https://img.shields.io/badge/Drogon-161b22?style=for-the-badge&logo=cplusplus&logoColor=3fb950" alt="Drogon" />
 </p>
 
 ### Инструменты
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=3fb950" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=3fb950" alt="Linux" />
   <img src="https://img.shields.io/badge/CMake-161b22?style=for-the-badge&logo=cmake&logoColor=3fb950" alt="CMake" />
@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bebra-1337&theme=github-compact&hide_border=true&bg_color=161b22&color=3fb950&line=3fb950&point=3fb950" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bebra-1337&theme=github-compact&hide_border=true&bg_color=161b22&color=3fb950&line=3fb950&point=3fb950" alt="Contribution Graph" />
 </p>
 
 ---
@@ -97,14 +97,14 @@ public:
 ## 🏆 Достижения
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bebra-1337&theme=gitdark&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Bebra-1337&theme=gitdark&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
 ---
 
 ## 📫 Связаться со мной
 
-<p align="left">
+<p align="center">
   <a href="https://bebralegendick.ru">
     <img src="https://img.shields.io/badge/🌐_Website-bebralegendick.ru-161b22?style=for-the-badge&logoColor=3FB950" alt="Website" />
   </a>
