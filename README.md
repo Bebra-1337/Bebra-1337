@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,161b22&height=200&section=header" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&customColorList=0d1117,3fb950,161b22&height=200&section=header" alt="header" />
 </p>
 
 <h1 align="center">
@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bebra-1337&label=Profile%20views&color=161b22&style=for-the-badge&logo=github&logoColor=3fb950" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Bebra-1337&label=Просмотры%20профиля&color=161b22&style=for-the-badge&logo=github&logoColor=3fb950" alt="profile views" />
   <a href="https://bebralegendick.ru"><img src="https://img.shields.io/badge/🌐_Сайт-bebralegendick.ru-161b22?style=for-the-badge&logoColor=3FB950" alt="website" /></a>
 </p>
 
@@ -51,12 +51,12 @@
 ## 📊 GitHub Статистика
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bebra-1337&show_icons=true&theme=github_dark&hide_border=true&bg_color=161b22&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bebra-1337&hide_border=true&background=161b22&ring=3fb950&fire=3fb950&currStreakNum=c9d1d9&currStreakLabel=3fb950&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&stroke=c9d1d9" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bebra-1337&show_icons=true&theme=github_dark&hide_border=true&bg_color=161b22&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&locale=ru" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bebra-1337&hide_border=true&background=161b22&ring=3fb950&fire=3fb950&currStreakNum=c9d1d9&currStreakLabel=3fb950&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&stroke=c9d1d9&locale=ru" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bebra-1337&layout=compact&theme=github_dark&hide_border=true&bg_color=161b22&title_color=3fb950&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bebra-1337&layout=compact&theme=github_dark&hide_border=true&bg_color=161b22&title_color=3fb950&text_color=c9d1d9&langs_count=8&locale=ru" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -106,17 +106,17 @@ public:
 
 <p align="left">
   <a href="https://bebralegendick.ru">
-    <img src="https://img.shields.io/badge/🌐_Website-bebralegendick.ru-161b22?style=for-the-badge&logoColor=3FB950" alt="Website" />
+    <img src="https://img.shields.io/badge/🌐_Сайт-bebralegendick.ru-161b22?style=for-the-badge&logoColor=3FB950" alt="Website" />
   </a>
   <a href="mailto:contact@bebralegendick.ru">
-    <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=3fb950" alt="Email" />
+    <img src="https://img.shields.io/badge/Почта-161b22?style=for-the-badge&logo=gmail&logoColor=3fb950" alt="Email" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,161b22&height=100&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&customColorList=0d1117,3fb950,161b22&height=100&section=footer" alt="footer" />
 </p>
 
 <p align="center">
