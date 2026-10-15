@@ -1,117 +1,101 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3fb950&height=200&section=header" alt="header" />
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=3FB950&center=true&vCenter=true&random=false&width=600&lines=Привет%2C+я+BebraLegendick+👋;Системный+разработчик;Low-Level+энтузиаст" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bebra-1337&label=Profile%20views&color=0d1117&style=for-the-badge&logo=github&logoColor=3fb950" alt="profile views" />
-  <a href="https://bebralegendick.ru"><img src="https://img.shields.io/badge/🌐_Сайт-bebralegendick.ru-0d1117?style=for-the-badge&logoColor=3FB950" alt="website" /></a>
-</p>
-
----
-
-## 🚀 О себе
-
-Системный разработчик с фокусом на **низкоуровневое программирование** и **высокопроизводительные приложения**. Работаю с C/C++, ассемблером и современными фреймворками для создания эффективных решений.
-
-🌐 **Мой сайт-визитка:** [bebralegendick.ru](https://bebralegendick.ru)
-
----
-
-## 🛠️ Технологический стек
-
-### Языки программирования
-<p align="center">
-  <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=3fb950" alt="C" />
-  <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=3fb950" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=c-sharp&logoColor=3fb950" alt="C#" />
-  <img src="https://img.shields.io/badge/Assembly_x86-0d1117?style=for-the-badge&logo=assemblyscript&logoColor=3fb950" alt="ASM" />
-</p>
-
-### Фреймворки и библиотеки
-<p align="center">
-  <img src="https://img.shields.io/badge/Qt-0d1117?style=for-the-badge&logo=qt&logoColor=3fb950" alt="Qt" />
-  <img src="https://img.shields.io/badge/Boost-0d1117?style=for-the-badge&logo=boost&logoColor=3fb950" alt="Boost" />
-  <img src="https://img.shields.io/badge/Drogon-0d1117?style=for-the-badge&logo=cplusplus&logoColor=3fb950" alt="Drogon" />
-</p>
-
-### Инструменты
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=3fb950" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=3fb950" alt="Linux" />
-  <img src="https://img.shields.io/badge/CMake-0d1117?style=for-the-badge&logo=cmake&logoColor=3fb950" alt="CMake" />
-  <img src="https://img.shields.io/badge/Visual_Studio-0d1117?style=for-the-badge&logo=visual%20studio&logoColor=3fb950" alt="VS" />
-</p>
-
----
-
-## 📊 GitHub Статистика
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bebra-1337&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bebra-1337&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakNum=c9d1d9&currStreakLabel=3fb950&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&stroke=c9d1d9" alt="GitHub Streak" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:161b22,100:30363d&height=180&section=header&text=BebraLegendick&fontColor=e6edf3&fontSize=48&fontAlignY=38&desc=systems%20%E2%80%A2%20low-level%20%E2%80%A2%20performance&descAlignY=58&descSize=16&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bebra-1337&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=520&lines=%3E+Системный+разработчик;%3E+Low-level+энтузиаст;%3E+C+%2F+C%2B%2B+%2F+ASM+x86" alt="typing" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bebra-1337&theme=github-compact&hide_border=true&bg_color=0d1117&color=3fb950&line=3fb950&point=3fb950" alt="Contribution Graph" />
+  <a href="https://bebralegendick.ru"><img src="https://img.shields.io/badge/bebralegendick.ru-0d1117?style=flat-square&logo=googlechrome&logoColor=e6edf3&labelColor=161b22" alt="website" /></a>
+  <a href="mailto:contact@bebralegendick.ru"><img src="https://img.shields.io/badge/contact-0d1117?style=flat-square&logo=maildotru&logoColor=e6edf3&labelColor=161b22" alt="email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Bebra-1337&label=views&color=30363d&style=flat-square" alt="views" />
 </p>
 
----
+<br />
 
-## 🎯 Специализация
+### `$ whoami`
+
+Системный разработчик с фокусом на **низкоуровневое программирование** и **высокопроизводительные приложения**. Пишу на C/C++ и ассемблере, строю GUI на Qt и сетевые сервисы на Drogon.
+
+<br />
+
+### `$ ls ~/stack`
+
+<table align="center">
+  <tr>
+    <td align="right"><sub><code>lang</code></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/C-161b22?style=for-the-badge&logo=c&logoColor=e6edf3" alt="C" />
+      <img src="https://img.shields.io/badge/C++-161b22?style=for-the-badge&logo=cplusplus&logoColor=e6edf3" alt="C++" />
+      <img src="https://img.shields.io/badge/C%23-161b22?style=for-the-badge&logo=dotnet&logoColor=e6edf3" alt="C#" />
+      <img src="https://img.shields.io/badge/ASM_x86-161b22?style=for-the-badge&logo=intel&logoColor=e6edf3" alt="ASM" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><code>libs</code></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Qt-161b22?style=for-the-badge&logo=qt&logoColor=e6edf3" alt="Qt" />
+      <img src="https://img.shields.io/badge/Boost-161b22?style=for-the-badge&logo=boost&logoColor=e6edf3" alt="Boost" />
+      <img src="https://img.shields.io/badge/Drogon-161b22?style=for-the-badge&logo=cplusplus&logoColor=e6edf3" alt="Drogon" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><code>tools</code></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=e6edf3" alt="Linux" />
+      <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=e6edf3" alt="Git" />
+      <img src="https://img.shields.io/badge/CMake-161b22?style=for-the-badge&logo=cmake&logoColor=e6edf3" alt="CMake" />
+      <img src="https://img.shields.io/badge/Visual_Studio-161b22?style=for-the-badge&logo=visualstudio&logoColor=e6edf3" alt="Visual Studio" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### `$ cat focus.hpp`
 
 ```cpp
-class BebraLegendick {
-public:
-    std::vector<std::string> areas_of_interest = {
-        "Системное программирование",
-        "Разработка высокопроизводительных приложений",
-        "Low-level оптимизации",
-        "Сетевое программирование",
-        "GUI приложения на Qt"
+struct BebraLegendick {
+    const char* focus[5] = {
+        "системное программирование",
+        "высокопроизводительные приложения",
+        "low-level оптимизации",
+        "сетевое программирование",
+        "GUI на Qt",
     };
 
-    std::map<std::string, std::vector<std::string>> tech_stack = {
-        {"languages", {"C", "C++", "C#", "ASM x86"}},
-        {"frameworks", {"Qt", "Boost", "Drogon"}},
-        {"focus", {"Performance", "Systems", "Architecture"}}
-    };
-
-    void current_status() {
-        std::cout << "🔭 Работаю над низкоуровневыми проектами\n";
-        std::cout << "🌱 Изучаю продвинутые техники оптимизации\n";
-        std::cout << "💡 Открыт к интересным проектам и коллаборациям\n";
+    void status() const noexcept {
+        puts("> работаю над низкоуровневыми проектами");
+        puts("> изучаю продвинутые техники оптимизации");
+        puts("> открыт к интересным проектам и коллаборациям");
     }
 };
 ```
 
----
+<br />
 
-
-## 📫 Связаться со мной
-
-<p align="center">
-  <a href="https://bebralegendick.ru">
-    <img src="https://img.shields.io/badge/🌐_Website-bebralegendick.ru-0d1117?style=for-the-badge&logoColor=3FB950" alt="Website" />
-  </a>
-  <a href="mailto:contact@bebralegendick.ru">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=3fb950" alt="Email" />
-  </a>
-</p>
-
----
+### `$ git log --stat`
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3fb950&height=100&section=footer" alt="footer" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bebra-1337&show_icons=true&include_all_commits=true&hide_border=false&border_radius=6&bg_color=0d1117&border_color=30363d&title_color=e6edf3&icon_color=8b949e&text_color=c9d1d9&ring_color=e6edf3" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bebra-1337&layout=compact&langs_count=8&hide_border=false&border_radius=6&bg_color=0d1117&border_color=30363d&title_color=e6edf3&text_color=c9d1d9" alt="top languages" />
 </p>
 
 <p align="center">
-  <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bebra-1337&background=0d1117&border=30363d&border_radius=6&stroke=30363d&ring=e6edf3&fire=e6edf3&currStreakNum=e6edf3&currStreakLabel=e6edf3&sideNums=c9d1d9&sideLabels=8b949e&dates=6e7681" alt="streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bebra-1337&bg_color=0d1117&color=8b949e&line=e6edf3&point=ffffff&area=true&area_color=30363d&hide_border=true&radius=6" alt="activity" />
+</p>
+
+<br />
+
+<p align="center">
+  <sub><code>"Code is like humor. When you have to explain it, it's bad." — Cory House</code></sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,50:161b22,100:000000&height=100&section=footer" alt="footer" />
 </p>
